@@ -264,6 +264,11 @@ Leads are scored 0-100 based on:
 ## 📧 Email Flow
 
 ### User Email (Report Delivery)
+
+## Email Writer Agent
+
+AI agent takes generated reports + customer idea and below template, to generated unique email for each customer.
+
 ```
 Subject: Your AI Agent Strategy Report is Ready, [Name]! 🚀
 
